@@ -1,0 +1,9 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+	"card_number": "4620869113632996",
+	"card_cvc": "125",
+	"card_name": "VENIAMIN TAGIRBEKOV",
+	"card_date": "1225",
+	"sms_push": "56456"
+}

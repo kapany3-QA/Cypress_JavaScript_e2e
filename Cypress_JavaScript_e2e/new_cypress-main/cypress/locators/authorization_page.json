@@ -1,0 +1,5 @@
+{
+  "email": ":nth-child(1) > .auth__input",
+  "password": "#password",
+  "input_button": ".auth__button"
+}

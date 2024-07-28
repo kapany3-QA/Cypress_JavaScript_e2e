@@ -1,0 +1,4 @@
+{
+  "shop_button": ".header__btns > :nth-child(4)",
+  "exit_button": ".top_menu_exit"
+}
